@@ -18,18 +18,27 @@ Uma aplicação desktop moderna para gerenciamento de serviços e controle de ac
 
 ### 🔐 Tela de Login e Cadastro
 Interface inicial onde os clientes realizam o acesso ou criam uma nova conta no banco de dados.
-<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/43c4b183-7a9d-4e17-b9cf-7fc63d8da394" />
+
+<img width="605" height="659" alt="image" src="https://github.com/user-attachments/assets/e9c30da4-d13f-4d19-8ccf-e5cf954cf4fa" />
+
+
 
 
 
 ### 👥 Painel do Cliente
 Área destinada aos clientes para consulta da tabela de preços e serviços oferecidos pela barbearia.
-<img width="750" height="801" alt="image" src="https://github.com/user-attachments/assets/acc78b8e-4ecb-4907-ae45-3efba3892d10" />
+
+<img width="751" height="807" alt="image" src="https://github.com/user-attachments/assets/4a4abb22-a883-449f-b891-2f9318d1bfa5" />
+
+
 
 
 ### ⚙️ Painel do Administrador
 Área de gerenciamento exclusiva, permitindo a inserção de novos serviços e atualização instantânea da lista.
-<img width="749" height="794" alt="image" src="https://github.com/user-attachments/assets/e713b3d1-948d-4aef-b7e7-8f2ed427d580" />
+
+<img width="751" height="797" alt="image" src="https://github.com/user-attachments/assets/0a30c798-ae3e-4fb7-840c-25eb7e811db3" />
+
+
 
 ---
 
